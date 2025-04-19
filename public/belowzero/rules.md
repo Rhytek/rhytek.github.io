@@ -5,19 +5,19 @@ By clicking "I agree", you agree to the following rules:
 
 ## Gameplay Rules (WIP)
 1. **Don't be a jerk!**
-   Every block interaction and chat message is logged on the server, disrespecting others, their identity, livelihoods, or creations. Violating this rule may result in a temporary or permanent band depend on the nature of the offense. 
+Every block interaction and chat message is logged on the server, disrespecting others, their identity, livelihoods, or creations. Violating this rule may result in a temporary or permanent band depend on the nature of the offense. 
    
 2. **Do not spam interactions**
-	Spamming block interactions such as abusive redstone (lag machines) may potentially slow down the server. Doing this will result in a 24 hour ban from the community server.
+Spamming block interactions such as abusive redstone (lag machines) may potentially slow down the server. Doing this will result in a 24 hour ban from the community server.
 	
 3. **Do not spam in-game chat**
-	Spamming in-game chat will result in temporary chat restrictions.
+Spamming in-game chat will result in temporary chat restrictions.
 
 4. **Practice internet safety and common sense**
-	Avoid sharing personally identifiable information over communications on the server. (Voice chat, in-game chat)
+Avoid sharing personally identifiable information over communications on the server. (Voice chat, in-game chat)
 
 5. **NSFW is not allowed**
-	NSFW/Not safe for work/sexual content is not allowed on the server. If any user is caught creating, sharing, or talking about NSFW including NSFW topics, content, builds or links on the server, it will be removed and you will be permanently banned.
+NSFW/Not safe for work/sexual content is not allowed on the server. If any user is caught creating, sharing, or talking about NSFW including NSFW topics, content, builds or links on the server, it will be removed and you will be permanently banned.
 
 6. **Modifying the modpack for an unfair advantage is prohibited**
 If a user is using mods to gain an unfair advantage, they will be banned from the community server without warning.
