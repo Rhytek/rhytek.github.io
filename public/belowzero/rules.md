@@ -23,8 +23,6 @@ By clicking "I agree", you agree to the following rules:
 If a user is using mods to gain an unfair advantage, they will be banned from the community server without warning.
 
 	
-
-
 ## Failure to comply
 Failure to comply will result in:
 
