@@ -1,4 +1,5 @@
 # Welcome!
+This is a file that can be updated without actually updating the modpack :)
 
 Lorem Ipsum
 ### Rules
