@@ -9,17 +9,20 @@ Every block interaction and chat message is logged on the server. Disrespecting 
    
 2. **Do not spam interactions**
 Spamming block interactions such as abusive redstone (lag machines) may potentially slow down the server. Doing this will result in a 24 hour ban or permanent from the community server.
+
+3. **No capitalism!**
+No exhausting one resource. Exhausted resources will be reset and given out to the community.
 	
-3. **Do not spam in-game chat**
+5. **Do not spam in-game chat**
 Spamming in-game chat will result in temporary chat restrictions.
 
-4. **Practice internet safety and common sense**
+6. **Practice internet safety and common sense**
 Avoid sharing personally identifiable information over communications on the server. (Voice chat, in-game chat)
 
-5. **NSFW is not allowed**
+7. **NSFW is not allowed**
 NSFW/Not safe for work/sexual content is not allowed on the server. If any user is caught creating, sharing, or talking about NSFW including NSFW topics, content, builds or links on the server, it will be removed and you will be permanently banned.
 
-6. **Modifying the modpack for an unfair advantage is prohibited**
+8. **Modifying the modpack for an unfair advantage is prohibited**
 If a user is using mods to gain an unfair advantage, they will be banned from the community server without warning.
 
 	
