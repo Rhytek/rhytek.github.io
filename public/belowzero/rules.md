@@ -3,7 +3,7 @@
 Last updated: **April 21, 2025**
 By clicking "I agree", you agree to the following rules:
 
-## Gameplay Rules (Work in progress)
+## Gameplay Rules
 1. **Don't be a jerk!**
 Every block interaction and chat message is logged on the server. Disrespecting others, their identity, livelihoods, or creations may result in a temporary or permanent ban.
    
@@ -13,16 +13,16 @@ Spamming block interactions such as abusive redstone (lag machines) may potentia
 3. **No capitalism!**
 No exhausting one resource. Exhausted resources will be reset and given out to the community.
 	
-5. **Do not spam in-game chat**
+4. **Do not spam in-game chat**
 Spamming in-game chat will result in temporary chat restrictions.
 
-6. **Practice internet safety and common sense**
+5. **Practice internet safety and common sense**
 Avoid sharing personally identifiable information over communications on the server. (Voice chat, in-game chat)
 
-7. **NSFW is not allowed**
+6. **NSFW is not allowed**
 NSFW/Not safe for work/sexual content is not allowed on the server. If any user is caught creating, sharing, or talking about NSFW including NSFW topics, content, builds or links on the server, it will be removed and you will be permanently banned.
 
-8. **Modifying the modpack for an unfair advantage is prohibited**
+7. **Modifying the modpack for an unfair advantage is prohibited**
 If a user is using mods to gain an unfair advantage, they will be banned from the community server without warning.
 
 	
