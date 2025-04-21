@@ -1,14 +1,14 @@
 
 ## Below Zer0 Community Server
-Last updated: **April 19, 2025**
+Last updated: **April 21, 2025**
 By clicking "I agree", you agree to the following rules:
 
-## Gameplay Rules (WIP)
+## Gameplay Rules (Work in progress)
 1. **Don't be a jerk!**
-Every block interaction and chat message is logged on the server, disrespecting others, their identity, livelihoods, or creations. Violating this rule may result in a temporary or permanent band depend on the nature of the offense. 
+Every block interaction and chat message is logged on the server. Disrespecting others, their identity, livelihoods, or creations may result in a temporary or permanent ban.
    
 2. **Do not spam interactions**
-Spamming block interactions such as abusive redstone (lag machines) may potentially slow down the server. Doing this will result in a 24 hour ban from the community server.
+Spamming block interactions such as abusive redstone (lag machines) may potentially slow down the server. Doing this will result in a 24 hour ban or permanent from the community server.
 	
 3. **Do not spam in-game chat**
 Spamming in-game chat will result in temporary chat restrictions.
@@ -32,7 +32,7 @@ Failure to comply will result in:
 
 
 ## Moderator rights
-Moderators from BELOW ZER0 are granted the rights to moderate the in-game text chat without being in-game.
+Moderators from BELOW ZER0 are granted the rights to moderate the in-game text chat without being in-game. 
 
 Moderators may at any point ban you from both the community server and the BELOW ZER0 Discord server without warning if a user are found to be under 13.
 
